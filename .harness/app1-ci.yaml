@@ -1,7 +1,7 @@
 pipeline:
   name: deploy2
   identifier: deploy2
-  projectIdentifier: default
+  projectIdentifier: default_project
   orgIdentifier: default
   tags: {}
   stages:
